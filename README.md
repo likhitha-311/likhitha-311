@@ -1,5 +1,3 @@
-<!-- ===================== HERO BANNER ===================== -->
-<!-- To change the banner text, edit the "text=" value below -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:3B82F6&height=220&section=header&text=Hi%2C%20I'm%20Likhitha%20%F0%9F%91%8B&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20Student%20%7C%20B.Tech%20CAI&descAlignY=58&descSize=20" width="100%" alt="Banner"/>
@@ -11,8 +9,8 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=likhitha-113&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/likhitha-113?style=for-the-badge&color=3B82F6&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=likhitha-311&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/likhitha-311?style=for-the-badge&color=3B82F6&logo=github)
 
 </div>
 
@@ -92,8 +90,8 @@
 <!-- Stats use the tokyonight theme. Change "theme=tokyonight" to switch themes -->
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=likhitha-113&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=likhitha-113&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=likhitha-311&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=likhitha-311&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
 
 </div>
 
@@ -101,7 +99,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=likhitha-113&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=likhitha-311&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -145,7 +143,7 @@
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thupililikhitha@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-3B82F6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/likhitha-113)
+[![GitHub](https://img.shields.io/badge/GitHub-3B82F6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/likhitha-311)
 
 <br/>
 
