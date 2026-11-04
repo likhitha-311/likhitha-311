@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:3B82F6&height=220&section=header&text=Hi%2C%20I'm%20Likhitha%20%F0%9F%91%8B&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20Student%20%7C%20B.Tech%20CAI&descAlignY=58&descSize=20" width="100%" alt="Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:3B82F6&height=220&section=header&text=Hi%2C%20I'm%20Likitha%20%F0%9F%91%8B&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20Student%20%7C%20B.Tech%20CAI&descAlignY=58&descSize=20" width="100%" alt="Banner"/>
 
 <!-- Animated typing text: edit the lines= values (separate lines with ;) -->
 <a href="https://git.io/typing-svg">
@@ -19,7 +19,7 @@
 ## 🧠 About Me
 
 <!-- Update your bio here -->
-👩‍💻 I'm **Likhitha**, a passionate and motivated second-year **B.Tech CSE (AI specialization)** student at **Sree Venkateshwara College of Engineering**.
+👩‍💻 I'm **Likitha**, a passionate and motivated second-year **B.Tech CSE (AI specialization)** student at **Sree Venkateshwara College of Engineering**.
 
 🌱 I love learning new technologies and exploring creative ideas. I'm building my programming skills in **C** and **Python**, mastering **Data Structures & Algorithms**, and sharpening my **communication skills** to prepare for future placements.
 
