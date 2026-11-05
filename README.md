@@ -90,8 +90,8 @@
 <!-- Stats use the tokyonight theme. Change "theme=tokyonight" to switch themes -->
 <div align="center">
 
-<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=likhitha-311&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=likhitha-311&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+<img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Stats" />
+<img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Used Languages" />
 
 </div>
 
