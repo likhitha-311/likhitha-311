@@ -88,12 +88,6 @@
 ## 📊 GitHub Stats
 
 <!-- Stats use the tokyonight theme. Change "theme=tokyonight" to switch themes -->
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=likhitha-311&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=likhitha-311&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-
-</div>
 
 ### 🔥 Streak Stats
 
